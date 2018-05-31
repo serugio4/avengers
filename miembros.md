@@ -7,6 +7,7 @@
 * Hank Pym
 * Hawkeye
 * Hulk
+* Capitán America
 * Iron Man
 * Luke Cage
 * QuickSilver
